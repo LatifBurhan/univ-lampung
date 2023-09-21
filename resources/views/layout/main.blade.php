@@ -1624,7 +1624,6 @@
 
 
     {{-- Js Pegawai --}}
-    {{-- {{  }} --}}
     <script>
         var table;
         $(document).ready(function() {
