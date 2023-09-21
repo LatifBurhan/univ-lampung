@@ -1625,6 +1625,7 @@
 
     {{-- Js Pegawai --}}
     {{-- Latif --}}
+    {{-- Danu --}}
     <script>
         var table;
         $(document).ready(function() {
